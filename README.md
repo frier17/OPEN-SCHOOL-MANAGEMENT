@@ -30,4 +30,4 @@ Project Team:
 Lead Developer: Aniefiok FRIDAY (aniefiok.friday@codeskol.com)
 
 Project URL:
-http:codeskol.com/projects/open-school-management/
+(tentative: http:codeskol.com/projects/open-school-management/)
