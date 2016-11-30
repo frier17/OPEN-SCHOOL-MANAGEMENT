@@ -1,0 +1,3 @@
+#This file holds short descriptions for future considerations for the OSM projects. Kindly add ideas, suggestions and comments under sections marked with []
+[ANNONYMOUS USE]
+Enable Annonymous usage of the OSM api for users wishing to try the application before registration.
